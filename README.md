@@ -93,9 +93,8 @@ The goal is to understand **price patterns**, **feature relationships**, and **f
 
  👩‍💻 Author
 
-**Name:**  Aarti Tonpe.
-**Dataset:** BMW Cars Dataset (Kaggle)
-**Project Type:** EDA — Data Cleaning, Visualization & Insights
-**File:** `EDA_BMWCars_<YourRollNo>.ipynb`
+Name: Aarti Tonpe.
+Dataset: BMW Cars Dataset (Kaggle)
+Project Type: EDA — Data Cleaning, Visualization & Insights
 
 
