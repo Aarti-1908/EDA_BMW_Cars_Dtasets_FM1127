@@ -8,7 +8,6 @@ This project performs a detailed **Exploratory Data Analysis (EDA)** on the **BM
 The goal is to understand **price patterns**, **feature relationships**, and **factors influencing car pricing** — providing useful insights for automotive analysis, dealerships, and data-driven pricing strategies.
 
 
-
 🔍 Data Analysis Summary
 
 ### 1️⃣ Data Overview
